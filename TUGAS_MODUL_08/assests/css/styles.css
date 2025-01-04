@@ -1,0 +1,74 @@
+/* Tabel styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 1em;
+    text-align: left;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+table th, table td {
+    padding: 12px 20px;
+    border-bottom: 1px solid #ddd;
+    text-align: center; /* Untuk merapikan tulisan secara horizontal */
+    vertical-align: middle; /* Untuk merapikan tulisan secara vertikal */
+}
+
+table th {
+    background-color: #007BFF; /* Biru untuk header */
+    color: #fff;
+    text-align: center;
+}
+
+table tbody tr:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+.table-container {
+    margin: 40px auto;
+    max-width: 90%;
+    overflow-x: auto;
+}
+
+/* Tombol delete */
+button.delete-btn {
+    background-color: #ff4757; /* Merah untuk tombol delete */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 0.9em;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+}
+
+button.delete-btn:hover {
+    background-color: #e84118;
+}
+
+button.delete-btn:focus {
+    outline: none;
+    background-color: #c23616;
+}
+
+/* Heading atau title */
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 20px;
+    color: #333;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}

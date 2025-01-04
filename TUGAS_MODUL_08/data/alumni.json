@@ -1,0 +1,56 @@
+[
+    {
+        "nim": "20230910001",
+        "name": "Bangchan",
+        "major": "Sistem Informasi",
+        "year": "2024"
+    },
+    {
+        "nim": "20230910002",
+        "name": "Lee Know",
+        "major": "Teknik Informasi",
+        "year": "2023"
+    },
+    {
+        "nim": "20230910003",
+        "name": "Changbin",
+        "major": "Teknik Sipil",
+        "year": "2022"
+    },
+    {
+        "nim": "20230910004",
+        "name": "Hyunjin",
+        "major": "DKV",
+        "year": "2023"
+    },
+    {
+        "nim": "20230910005",
+        "name": "Han",
+        "major": "Managemen Informatika",
+        "year": "2022"
+    },
+    {
+        "nim": "20230910006",
+        "name": "Felix",
+        "major": "Sistem Informasi",
+        "year": "2021"
+    },
+    {
+        "nim": "20230910007",
+        "name": "Seungmin",
+        "major": "Teknik Sipil",
+        "year": "2022"
+    },
+    {
+        "nim": "20230910008",
+        "name": "Jeongin",
+        "major": "DKV",
+        "year": "2023"
+    },
+    {
+        "nim": "20230910010",
+        "name": "Helga Winston",
+        "major": "Teknik Sipil",
+        "year": "2025"
+    }
+]
